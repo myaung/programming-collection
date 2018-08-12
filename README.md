@@ -28,6 +28,8 @@ Ko Thet Khine တင္ထားတဲ့ Programming ဆိုင္ရာ Know
  - [The Evolution of VM in Programming](https://github.com/LunaM00n/programming-collection/blob/master/Knowledges/knowledge9.md) - (Ko Thet Khine)
  
  - [Why there is no pass by reference in Java](https://github.com/LunaM00n/programming-collection/blob/master/Knowledges/knowledge10.md) - (Ko Thet Khine)
+ 
+ - [How to master Programming & Programming Languages](https://github.com/LunaM00n/programming-collection/blob/master/Knowledges/knowledge11.md) - (Ko Thet Khine)
 
 **JavaScript**
  - [Calling JavaScript Function in Global Scope](https://github.com/LunaM00n/programming-collection/blob/master/JavaScript/JS1.md) - (Ko Thet Khine)
