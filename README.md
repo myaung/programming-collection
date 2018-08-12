@@ -52,3 +52,7 @@ Ko Thet Khine တင္ထားတဲ့ Programming ဆိုင္ရာ Know
  **Database**
 
  - [Gentle Introduction to how DBMS work internally](https://github.com/LunaM00n/programming-collection/blob/master/Database/db1.md) - (Ko Thet Khine)
+ 
+ **Videos**
+ - [VB Lessons for Beginners - [12 Mb]](https://my.pcloud.com/publink/show?code=YJJctalK) - (Ko Myo Min Aung)
+
