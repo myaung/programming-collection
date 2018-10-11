@@ -69,6 +69,7 @@ Ko Thet Khine တင္ထားတဲ့ Programming ဆိုင္ရာ Know
 
 **Books**
 
- - [Programming Basic with Python(http://books.saturngod.net/programming_basic/)] - Ko Htein Lynn Shwe ( Saturngod )
+  - [Programming Basic with Python](http://books.saturngod.net/programming_basic/) - Ko Htein Lynn Shwe ( Saturngod )
+
 
 
