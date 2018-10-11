@@ -36,6 +36,8 @@ Ko Thet Khine တင္ထားတဲ့ Programming ဆိုင္ရာ Know
   - [How to becoma a Self-taught programmer](https://github.com/LunaM00n/programming-collection/blob/master/Knowledges/knowledge13.md) - (Ko Thet Khine)
   
   - [Duck Typing](https://github.com/LunaM00n/programming-collection/blob/master/Knowledges/knowledge14.md) - (Ko Thet Khine)
+  
+  - [Zero in Programming Languages](https://github.com/LunaM00n/programming-collection/blob/master/Knowledges/knowledge15.md) - (Ko Thet Khine)
 
 
 **JavaScript**
