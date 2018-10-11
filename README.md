@@ -32,6 +32,8 @@ Ko Thet Khine တင္ထားတဲ့ Programming ဆိုင္ရာ Know
  - [How to master Programming & Programming Languages](https://github.com/LunaM00n/programming-collection/blob/master/Knowledges/knowledge11.md) - (Ko Thet Khine)
  
   - [How OS work - from dummies POV](https://github.com/LunaM00n/programming-collection/blob/master/Knowledges/knowledge12.md) - (Ko Thet Khine)
+  
+  - [How to becoma a Self-taught programmer](https://github.com/LunaM00n/programming-collection/blob/master/Knowledges/knowledge13.md) - (Ko Thet Khine)
 
 
 **JavaScript**
