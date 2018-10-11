@@ -34,12 +34,13 @@ Ko Thet Khine တင္ထားတဲ့ Programming ဆိုင္ရာ Know
   - [How OS work - from dummies POV](https://github.com/LunaM00n/programming-collection/blob/master/Knowledges/knowledge12.md) - (Ko Thet Khine)
   
   - [How to becoma a Self-taught programmer](https://github.com/LunaM00n/programming-collection/blob/master/Knowledges/knowledge13.md) - (Ko Thet Khine)
+  
+  - [Duck Typing](https://github.com/LunaM00n/programming-collection/blob/master/Knowledges/knowledge14.md) - (Ko Thet Khine)
 
 
 **JavaScript**
  - [Calling JavaScript Function in Global Scope](https://github.com/LunaM00n/programming-collection/blob/master/JavaScript/JS1.md) - (Ko Thet Khine)
  
-
 
 **Object Oriented Programming**
 
@@ -63,4 +64,9 @@ Ko Thet Khine တင္ထားတဲ့ Programming ဆိုင္ရာ Know
  
  **Videos**
  - [VB Lessons for Beginners - [12 Mb]](https://my.pcloud.com/publink/show?code=YJJctalK) - (Ko Myo Min Aung)
+
+**Books**
+
+ - [ [Programming Basic with Python](http://books.saturngod.net/programming_basic/) ] - Ko Htein Lynn Shwe ( Saturngod )
+
 
